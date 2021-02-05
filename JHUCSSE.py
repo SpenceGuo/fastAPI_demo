@@ -1,3 +1,7 @@
+"""
+疫情数据更新代码
+数据源：约翰霍普金斯大学官方网站
+"""
 import json
 import mysql.connector
 import requests
